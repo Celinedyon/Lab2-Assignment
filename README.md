@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Lab2-Assignment
-=======
-# Assignment of C#
 
 ## Student Information
 - Names: Umukamisha Celine
@@ -65,18 +62,24 @@ This application calculates the total rental cost for a bicycle based on the sta
 
 ---
 
-## Login and Application Selection
-Before accessing any application, the user must log in first.
+## Login Form and App Selection
+The application starts with a login form before any project can be opened. This ensures the user must authenticate before accessing the business or mushroom tools.
 
-### Login Details
+### Login Screen
+- Username field
+- Password field
+- Login button
+- Validation for incorrect credentials
+
+### Default Login Credentials
 - Username: admin
 - Password: 1234
 
-After a successful login, the user is directed to a selection screen where they can choose between:
+If the credentials are correct, the user is redirected to the application selection screen. From there, they can choose between:
 - Bicycle Business
 - Mushroom Type
 
-This ensures the application starts with a secure entry step before opening the main project tools.
+This flow makes the app more secure and matches the required design: login first, then choose the application.
 
 ---
 
@@ -87,5 +90,4 @@ This ensures the application starts with a secure entry step before opening the 
 
 ---
 
-
->>>>>>> bbd827e (Initial commit for Lab2 assignment)
+(Lab2 assignment)
