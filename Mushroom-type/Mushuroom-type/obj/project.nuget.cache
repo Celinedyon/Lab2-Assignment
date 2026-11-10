@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jD5PG0VIUz0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2andr\\Downloads\\lab-two\\Mushroom-type\\Mushuroom-type\\Mushuroom-type.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2andr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\2andr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\2andr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\2andr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
