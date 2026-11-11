@@ -27,9 +27,7 @@ This application asks the user a series of yes/no questions to identify a mushro
 - Question log for tracking answers
 
 ### Screenshots
-![Mushroom identifier before run](Mushroom-type/Mushuroom-type/nn.png)
-
-![Answering based on yes or no](Mushroom-type/Mushuroom-type/answerring%20based%20on%20yes%20or%20no.png)
+![Mushroom identifier run](Mushroom-type/Mushuroom-type/nn.png)
 
 ![Pied bleu result](Mushroom-type/Mushuroom-type/pie%20de%20bleu.png)
 
